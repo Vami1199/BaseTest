@@ -7,6 +7,5 @@ public class ShowLogicErrors {
 		System.out.println((double)number1/number2);
 		number2 = number1 + number2;
 		System.out.println(number2);
-		
 	}
 }
